@@ -17,9 +17,11 @@ Bootstrapping, and Data Visualization in R
 
   Uses 2013-2016 Stock data of Alphabet Stock and sentiment of news articles in the same time frame to predict stock prices using Machine Learning. 
 
+  
 *Skills Demonstrated:* JSON Scraping, Time Series Analysis, Data Visualization, Cross
 Validation, and Machine Learning in Python 
-
+ 
+  [Check it out here](https://colab.research.google.com/drive/1IHGyOZneRyPlAotKH1JXXb6nhS1vcNWM)
 
 * **Oracle & MySQL Alpha Kappa Psi Database:**
 
@@ -30,14 +32,21 @@ Validation, and Machine Learning in Python
 
 * **Anime Shows Data Viz Articles:**
 
-  Wrote an article analyzing thousands of Anime. Used R to find and visualize insights of the data. 
+  Wrote an article analyzing thousands of Anime using data from the website myanimelist.com. Used R to find and visualize insights of the data. 
+  
+  [Check it out here](https://www.dropbox.com/s/76bk4kk4nqlnj3c/Anime_Analysis.html?dl=0)
 
 *Skills Demonstrated:* Data Preprocssing and Data Visualization in R
   
 
 * **Slackverse Vignette:**
 
-  Wrote a vignette for the verse of packages that links R to the communication tool, Slack. 
+  Wrote a guide for the setup of a webhook appliaction that allows the user to use a new 
+  verse of packages that links R to the communication tool, Slack. 
+  
+*Skills Demonstrated:* Vignette Writing and Creating Use Cases in R
+  
+  [Check it out here](https://www.dropbox.com/s/ieeqouqh431nu2s/Slackverse_Vignette.html?dl=0)
   
 * **Point B Consulting Case Competition**
 
