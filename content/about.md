@@ -7,6 +7,14 @@ My name is Karan Bhatia and I am a Business Quantitative Analysis Student at Cal
 
 I am excited by career opportunities in Technology Consulting, Businesses Intelligence, and Data Analytics. A few industries I am always itching too learn more about include cybersecurity, financial technology, and gaming.
 
+
+Experience:
+* Incoming BI & Analytics Intern @ Palo Alto Networks (2020)
+* Financial Services Advisory Intern @ Ernst & Young LLP (2019)
+* Growth Marketing Analyst @ Mustang Media Group (2019-2020)
+* Double Machine Learning Research Assistant (2020)
+
+
 I have demonstrated and am continuing to build my experience in statistics and data analytics with the following tools and programming languages:
 
 * Python (Machine Learning, Data Visualization, Statistical Analysis, Data Preprocessing, Cross-Validation)
@@ -19,7 +27,6 @@ I have demonstrated and am continuing to build my experience in statistics and d
 
 Feel free to check out my Projects section to learn more about my experience with these technologies. 
 
-Past Experience: Risk Consulting, Technical Recruiting, Customer Service, Public Relations
 
 (Less Professional) Claims to fame:
 * Being featured on the Cal Poly Orfalea College of Business website.
