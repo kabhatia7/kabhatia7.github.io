@@ -130,7 +130,7 @@ Experience:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>If you have any inquiries feel free to email me at kabhatia7@gmail.com.</description>
+      <description>If you have any inquiries feel free to email me at kabhatia7@gmail.com or connect with me on any of my social media.</description>
     </item>
     
     <item>
@@ -139,7 +139,21 @@ Experience:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description>Cal Poly Professor Salary Predictor R Shiny App:
+Uses Cal Poly Professor Salaries from Transparent California to predict how much teachers should be making relative to their colleagues based on their Tenure, Title, and College.
+Skills Demonstrated: Webscraping, Data Preprocessing, Multiple Linear Regression, Bootstrapping, and Data Visualization in R
+Check it out here
+  Machine Learning Time Series GOOGL Stock Predictor:
+Uses 2013-2016 Stock data of Alphabet Stock and sentiment of news articles in the same time frame to predict stock prices using Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>link to resume</description>
     </item>
     
   </channel>

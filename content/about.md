@@ -19,7 +19,7 @@ I have demonstrated and am continuing to build my experience in statistics and d
 
 * Python (Machine Learning, Data Visualization, Statistical Analysis, Data Preprocessing, Cross-Validation)
 
-* R (Data Visualization, Data Manipulation, Time Series Analysis, Probability and Simulation, Tidy Data, Bootstrapping, Shiny)
+* R (Data Visualization, Data Manipulation, Time Series Analysis, Probability and Simulation, Data Prepocessing, Bootstrapping, Shiny)
 
 * SQL (Data Manipulation, Database Management)
 
