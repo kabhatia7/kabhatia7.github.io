@@ -40,7 +40,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "dark"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -91,7 +91,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Resume"
             weight = 2
-            url = "resume/"
+            url = "https://www.dropbox.com/s/jc75vicrvls8czy/Karan%20Bhatia%20Resume.pdf?dl=0"
 
             [[languages.en.menu.main]]
             name = "Projects"
