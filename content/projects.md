@@ -8,10 +8,10 @@ title: Projects
   Uses Cal Poly Professor Salaries from Transparent California to predict how much teachers should be making relative to their colleagues based on their Tenure, Title, and College. 
   
   
-*Skills Demonstrated:* Webscraping, Data Preprocessing, Multiple Linear Regression, 
-Bootstrapping, and Data Visualization in R
+*Skills Demonstrated:* Webscraping, Data Preprocessing, Shiny App Development, Multiple
+Linear Regression, Bootstrapping, and Data Visualization in R
   
-  [Check it out here](https://kabhatia7.shinyapps.io/cal_poly_scraper/)
+[Check it out here](https://kabhatia7.shinyapps.io/cal_poly_scraper/)
 
 * **Machine Learning Time Series GOOGL Stock Predictor:**
 
@@ -21,7 +21,7 @@ Bootstrapping, and Data Visualization in R
 *Skills Demonstrated:* JSON Scraping, Time Series Analysis, Data Visualization, Cross
 Validation, and Machine Learning in Python 
  
-  [Check it out here](https://colab.research.google.com/drive/1IHGyOZneRyPlAotKH1JXXb6nhS1vcNWM)
+[Check it out here](https://colab.research.google.com/drive/1IHGyOZneRyPlAotKH1JXXb6nhS1vcNWM)
 
 * **Oracle & MySQL Alpha Kappa Psi Database:**
 
@@ -34,7 +34,7 @@ Validation, and Machine Learning in Python
 
   Wrote an article analyzing thousands of Anime using data from the website myanimelist.com. Used R to find and visualize insights of the data. 
   
-  [Check it out here](https://www.dropbox.com/s/76bk4kk4nqlnj3c/Anime_Analysis.html?dl=0)
+[Check it out here](https://www.dropbox.com/s/76bk4kk4nqlnj3c/Anime_Analysis.html?dl=0)
 
 *Skills Demonstrated:* Data Preprocssing and Data Visualization in R
   
@@ -45,8 +45,8 @@ Validation, and Machine Learning in Python
   verse of packages that links R to the communication tool, Slack. 
   
 *Skills Demonstrated:* Vignette Writing and Creating Use Cases in R
-  
-  [Check it out here](https://www.dropbox.com/s/ieeqouqh431nu2s/Slackverse_Vignette.html?dl=0)
+
+[Check it out here](https://www.dropbox.com/s/ieeqouqh431nu2s/Slackverse_Vignette.html?dl=0)
   
 * **Point B Consulting Case Competition**
 
