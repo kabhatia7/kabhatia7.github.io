@@ -91,7 +91,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Resume"
             weight = 2
-            url = "https://www.dropbox.com/s/jc75vicrvls8czy/Karan%20Bhatia%20Resume.pdf?dl=0"
+            url = "https://www.dropbox.com/s/q1ftr24kp6llb7s/Karan%20Bhatia%20Resume.pdf?dl=0"
 
             [[languages.en.menu.main]]
             name = "Projects"

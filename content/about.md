@@ -3,9 +3,11 @@ slug: about
 title: About Karan
 ---
 
-My name is Karan Bhatia and I am a Business Quantitative Analysis Student at Cal Poly, San Luis Obispo.
+My name is Karan Bhatia and I am a Business Quantitative Analysis Student at Cal Poly SLO.
 
-I am excited by career opportunities in Technology Consulting, Businesses Intelligence, and Data Analytics. A few industries I am always itching too learn more about include cybersecurity, financial technology, and gaming.
+I am excited by career opportunities in Technology Consulting, Businesses Intelligence, and Data Analytics. 
+
+A few industries I am always itching too learn more about include cybersecurity, financial technology, and gaming.
 
 
 Experience:
@@ -29,7 +31,9 @@ Feel free to check out my Projects section to learn more about my experience wit
 
 
 (Less Professional) Claims to fame:
-* Being featured on the Cal Poly Orfalea College of Business website.
+* Being featured on the [Cal Poly Orfalea College of Business website.](https://www.cob.calpoly.edu/economics/economics-minor/)
+
+
 * Achieving the rank of legend in the popular online card game, Hearthstone, in 8 seasons.
-* Posting a meme that amassed 6k likes on the Facebook page subtle curry traits.
+* Posting a meme that amassed 6k likes on the Facebook page, Subtle Curry Traits.
 
