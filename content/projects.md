@@ -32,7 +32,7 @@ Validation, and Machine Learning in Python
 
   Wrote an article analyzing thousands of Anime. Used R to find and visualize insights of the data. 
 
-*SkillsDemonstrated:* Data Preprocssing, Data Visualization, and Rmarkdown in R
+*Skills Demonstrated:* Data Preprocssing and Data Visualization in R
   
 
 * **Slackverse Vignette:**
