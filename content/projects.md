@@ -25,7 +25,7 @@ Validation, and Machine Learning in Python
 
   Developed a fully functional database in MySQL and Oracle SQL Developer for the Cal Poly SLO chapter of Alpha Kappa Psi. The database was used to build reports that tracked committee progress and contributions, membership standings and due payments, and member retention.  
 
-*Skills Demonstrated:* Database Management, Database Development, Reporting using SQL
+*Skills Demonstrated:* Database Management, Database Development, and Reporting with SQL
   
 
 * **Anime Shows Data Viz Articles:**
