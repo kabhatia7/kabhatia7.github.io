@@ -3,4 +3,4 @@ slug: contact
 title: Contact
 ---
 
-Follow me, @johndoe.
+If you have any inquiries feel free to email me at kabhatia7@gmail.com.

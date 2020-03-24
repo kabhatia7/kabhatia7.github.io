@@ -1,29 +1,28 @@
 ---
 slug: about
-title: About Hugo
+title: About Karan
 ---
 
-Hugo is a static site engine written in Go.
+My name is Karan Bhatia and I am a Business Quantitative Analysis Student at Cal Poly, San Luis Obispo.
 
+I am excited by career opportunities in Technology Consulting, Businesses Intelligence, and Data Analytics. A few industries I am always itching too learn more about include cybersecurity, financial technology, and gaming.
 
-It makes use of a variety of open source projects including:
+I have demonstrated and am continuing to build my experience in statistics and data analytics with the following tools and programming languages:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* Python (Machine Learning, Data Visualization, Statistical Analysis, Data Preprocessing, Cross-Validation)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+* R (Data Visualization, Data Manipulation, Time Series Analysis, Probability and Simulation, Tidy Data, Bootstrapping, Shiny)
 
-## Setup
+* SQL (Data Manipulation, Database Management)
 
-Some fun facts about [Hugo](http://gohugo.io/):
+* Tableau (Data Visualization)
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Feel free to check out my Projects section to learn more about my experience with these technologies. 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Past Experience: Risk Consulting, Technical Recruiting, Customer Service, Public Relations
 
-Thanks for reading!
+(Less Professional) Claims to fame:
+* Being featured on the Cal Poly Orfalea College of Business website.
+* Achieving the rank of legend in the popular online card game, Hearthstone, in 8 seasons.
+* Posting a meme that amassed 6k likes on the Facebook page subtle curry traits.
+
