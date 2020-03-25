@@ -33,7 +33,6 @@ Feel free to check out my Projects section to learn more about my experience wit
 (Less Professional) Claims to fame:
 * Being featured on the [Cal Poly Orfalea College of Business website.](https://www.cob.calpoly.edu/economics/economics-minor/)
 
-
 * Achieving the rank of legend in the popular online card game, Hearthstone, in 8 seasons.
 * Posting a meme that amassed 6k likes on the Facebook page, Subtle Curry Traits.
 
