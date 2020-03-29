@@ -44,7 +44,7 @@ Validation, and Machine Learning in Python
   Wrote a guide for the setup of a webhook appliaction that allows the user to use a new 
   verse of packages that links R to the communication tool, Slack. 
   
-*Skills Demonstrated:* Vignette Writing and Creating Use Cases in R
+*Skills Demonstrated:* Writing vignettes, use cases, and  Creating Package Documentation in R
 
 [Check it out here](https://www.dropbox.com/s/ieeqouqh431nu2s/Slackverse_Vignette.html?dl=0)
   
