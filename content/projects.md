@@ -34,10 +34,10 @@ Validation, and Machine Learning in Python
 
   Wrote an article analyzing thousands of Anime using data from the website myanimelist.com. Used R to find and visualize insights of the data. 
   
-[Check it out here](https://www.dropbox.com/s/76bk4kk4nqlnj3c/Anime_Analysis.html?dl=0)
 
 *Skills Demonstrated:* Data Preprocssing and Data Visualization in R
   
+[Check it out here](https://www.dropbox.com/s/76bk4kk4nqlnj3c/Anime_Analysis.html?dl=0)
 
 * **Slackverse Vignette:**
 
